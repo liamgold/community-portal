@@ -1,4 +1,5 @@
 export * from './froala/CodeSyntaxHighlighterRichTextEditorPlugin';
+export * from './milkdown/MilkdownEditorFormComponent';
 export * from './components/LinkTableCellComponent';
 export * from './components/URLValidationRule';
 export * from './components/LinkDataTypeFormComponent';
